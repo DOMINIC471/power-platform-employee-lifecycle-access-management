@@ -1,0 +1,4 @@
+ChecklistID,RequestID,ChecklistType,BuildType,ITStatus,ChecklistGenerated,PercentComplete,TicketEmailSent
+CHK-001,REQ-001,Onboarding,Base Config,In Progress,Yes,0.65,Yes
+CHK-002,REQ-002,Mover,Finance Config,Not Started,Yes,0.00,No
+CHK-003,REQ-003,Leaver,Leaver,In Progress,Yes,0.40,Yes
