@@ -1,0 +1,4 @@
+TransactionID,RequestID,ApproverRole,RequestedAccessNames,AssignedTo,Status,DecisionDate
+APP-001,REQ-001,HR Officer,"Network Logon Access; Microsoft 365 inc. Email",Approver A,Approved,2026-06-20
+APP-002,REQ-001,MA Director,"JEMS; AIV Reporting Portal",Approver B,Approved,2026-06-20
+APP-003,REQ-002,Corporate Accountant,"SUN Finance System",Approver C,Pending,
