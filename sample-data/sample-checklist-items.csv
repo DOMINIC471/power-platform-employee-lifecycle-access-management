@@ -1,0 +1,6 @@
+ChecklistItemID,ChecklistID,Task,Category,Status,Order
+ITEM-001,CHK-001,AD User Created,User Setup,Completed,10
+ITEM-002,CHK-001,Email Created,User Setup,Completed,20
+ITEM-003,CHK-001,Laptop,Equipment,Completed,30
+ITEM-004,CHK-002,Review role change details,Mover,Not Started,10
+ITEM-005,CHK-003,AD - Disabled,Leaver,Completed,10
